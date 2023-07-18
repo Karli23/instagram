@@ -1,2 +1,7 @@
-# instagram
-## Nesse projeto estarei criando uma cópia da página do instagram.
+# Instagram
+
+Esse é o repositório a qual vamos fazer a interface de login do Instagram! 
+
+### 
+
+## 🚀 Let's code! 🚀
